@@ -1,9 +1,6 @@
 # SharpDia
 - ダイヤグラムを作成するためのアプリケーションです
 
-コミュニティサーバに来ませんか？
-https://discord.gg/AsJyTqX7NY
-
 # 動作条件
 - .NetFramework4.8 以降
 - その他の制約はありません
