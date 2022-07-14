@@ -6,3 +6,6 @@
 
 # リリース
 開発中ですしばらくお待ちください
+
+# 使用させて頂いているライブラリ
+- [AvaloniaUI (MIT License)](https://github.com/AvaloniaUI/Avalonia) Copyright (c) .NET Foundation and Contributors All Rights Reserved
