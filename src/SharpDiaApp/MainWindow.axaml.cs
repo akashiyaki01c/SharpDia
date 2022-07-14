@@ -6,6 +6,7 @@ namespace SharpDiaApp
     {
         public MainWindow()
         {
+
             InitializeComponent();
         }
     }
